@@ -3,8 +3,6 @@
 
 - 🌱 Atualmente estou aprendendo **Estruturas de dados com C, Django**
 
-- 👨‍💻 Todos os meus projetos estão disponíveis em [https://ricardooliveiralobe.com.br](https://ricardooliveiralobe.com.br)
-
 - 💬 Pergunte-me sobre **Python, Java e C**
 
 - 📫 Como entrar em contato comigo **ricardooliveiralobe@gmail.com**
