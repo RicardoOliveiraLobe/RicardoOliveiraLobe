@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ricardo Lobê</h1>
 <h3 align="center">fullstack developer</h3>
 
-- 👨‍💻 All of my projects are available at [ricardooliveiralobe.com.br](ricardooliveiralobe.com.br)
-
 - 📫 How to reach me **ricardooliveiralobe@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
